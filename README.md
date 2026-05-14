@@ -112,8 +112,13 @@ README.md
 ---
 
 ## Authors
-- Abishek
-- Team Members
+- Abishek A 
+- Harish Varadhan R
+- Sanjay R
+- Akshay R
+- Dr.Diana Andrusia
+- Dr.Mary Neebha
+  Karunya University ECE(ECM-B) Final year 2022-2026
 
 Department of Electronics and Communication Engineering
 
