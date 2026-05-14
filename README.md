@@ -86,10 +86,10 @@ The models were evaluated using:
 ## Folder Structure
 
 ```text
-src/
+
 results/
 models/
-report/
+
 README.md
 ```
 
