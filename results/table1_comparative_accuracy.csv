@@ -1,0 +1,5 @@
+Model,Testing Accuracy (%)
+mobilenet_v2,78.06
+resnet18,76.66
+efficientnet_b0,77.69
+convnext_tiny,76.86
